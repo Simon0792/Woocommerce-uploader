@@ -3,7 +3,9 @@ the upload of images on your server.
 
 Written By Simone Onorato
 Kingston,Ontario
-support: simon.onorato@queensu.ca'''
+support: simon.onorato@queensu.ca
+all right reserved.'''
+
 import product_upload
 
 
