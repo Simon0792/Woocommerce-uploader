@@ -1,0 +1,5 @@
+Dependencies to install
+
+woocommerce
+openpyxl
+paramiko
