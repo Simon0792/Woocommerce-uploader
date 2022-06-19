@@ -3,7 +3,8 @@ for server access and Woocommerce API keys.
 
 Written by Simone Onorato
 Kingston,Ontario
-support: simon.onorato@queensu.ca'''
+support: simon.onorato@queensu.ca
+all right reserved.'''
 
 
 class constantData:
