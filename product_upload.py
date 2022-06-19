@@ -6,7 +6,8 @@ The third file uploads your products to your Woocommerce store through API calls
 
 Written by Simone Onorato
 Kingston,Ontario
-support: simon.onorato@queensu.ca'''
+support: simon.onorato@queensu.ca
+all right reserved.'''
 
 from woocommerce import API
 from openpyxl import Workbook, load_workbook
