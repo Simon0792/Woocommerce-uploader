@@ -3,7 +3,8 @@ provide images reachable through url, this module allows for easy upload of imag
 
 Written by Simone Onorato
 Kingston,Ontario
-support: simon.onorato@queensu.ca'''
+support: simon.onorato@queensu.ca
+all right reserved.'''
 
 from paramiko import SSHClient, AutoAddPolicy
 import getpass
