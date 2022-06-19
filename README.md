@@ -4,6 +4,7 @@ This Python app facilitates the bulk upload of product on your woocommerce store
 Created by Simone Onorato
 Kingston, Ontario.
 For questions and support email simon.onorato@queensu.ca
+all right reserved.
 
 -----------------------------------------------------------------------------------------------------------
 1-How to install and setup
